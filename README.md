@@ -10,6 +10,6 @@ Pos Tag
     
    - Task :
     
-     a. aad
+     a. Manual Tagging
      
-     b. ajhfka
+     b. POST Training and save model
